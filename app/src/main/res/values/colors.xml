@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#CCCCCC</color>
+    <color name="reviewPurple">#17a9ed</color>
+    <color name="transparentBlack">#80000000</color>
+    <color name="title">#0E89B4</color>
+    <color name="colorRed">#ea7e7e</color>
+    <color name="disabledBtn">#cec8c8</color>
+    <color name="colorDisabled">#918c8c</color>
+    <color name="partialWhite">#EEF1F2</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="orderHistory">#edf4f7</color>
+    <color name="orderHistoryBorder">#c3e0de</color>
+    <color name="confirm">#cbcf34</color>
+    <color name="expired">#960000</color>
+    <color name="colorBlack">#000000</color>
+    <color name="partialBlue">#D3EAEE</color>
+    <!--    <color name="colorMainBlue">#0f3e59</color>-->
+    <color name="colorMainBlue">#01273E</color>
+    <color name="applight">#D7EEF0</color>
+    <color name="appdark">#293146</color>
+    <color name="colorLightBlue">#91b9cc</color>
+    <color name="text_color">#828585</color>
+    <color name="club">#5BE8A8</color>
+    <color name="point">#20949A</color>
+    <color name="colorHomeActivity">#070707</color>
+<!--    <color name="colorPrimary">#0E89B4</color>-->
+    <color name="address_bg">#FFFBF4</color>
+<!--    <color name="colorPrimaryDark">#D7EEF0</color>-->
+<!--    <color name="colorAccent">#773D67</color>-->
+    <color name="normal_pink">#ed017f</color>
+    <color name="pendingText">#e09b3d</color>
+    <color name="pendingBg">#80e09b3d</color>
+    <color name="actionbar_opacity">#33000000</color>
+    <color name="edit_txt_color">#999999</color>
+    <color name="prod_top">#a1a1a1</color>
+    <color name="myAshColor">#f4f2f2</color>
+    <color name="blue" type="color">#FF33B5E5</color>
+    <color name="purple" type="color">#FFAA66CC</color>
+    <color name="green" type="color">#008000</color>
+    <color name="lime_green" type="color">#32CD32</color>
+    <color name="orange" type="color">#FFFFBB33</color>
+    <color name="red" type="color">#FFFF4444</color>
+    <color name="darkblue" type="color">#FF0099CC</color>
+    <color name="darkpurple" type="color">#FF9933CC</color>
+    <color name="darkgreen" type="color">#FF669900</color>
+    <color name="darkorange" type="color">#FFFF8800</color>
+    <color name="darkred" type="color">#FFCC0000</color>
+    <color name="black" type="color">#000000</color>
+    <color name="top" type="color">#ed017f</color>
+    <color name="drawer_bg" type="color">#dbc1dd</color>
+    <color name="app_bg" type="color">#E5E5E5</color>
+    <color name="order_history" type="color">#FAF9F9</color>
+    <color name="drawer_badge_bg" type="color">#a83c73</color>
+    <color name="top_most" type="color">#3b1529</color>
+    <color name="search_bg" type="color">#6b0039</color>
+    <color name="viewBg">#f1f5f8</color>
+    <color name="text_card_fore_color">#612c8c</color>
+    <color name="prod_grey_text">#e9e9e9</color>
+    <color name="related_text">#F5F5F5</color>
+    <color name="home_bg">#e6e7e8</color>
+    <color name="app_bg_pink" type="color">#FAF9F9</color>
+    <color name="rating_yellow">#ecab1c</color>
+</resources>

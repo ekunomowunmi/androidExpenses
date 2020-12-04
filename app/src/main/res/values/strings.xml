@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SimiProject1</string>
+    <string name="home_page">Home Page</string>
+    <string name="daily_expense">Daily Expense</string>
+    <string name="description">Description:</string>
+    <string name="amount">Amount:</string>
+    <string name="enter_the_amount">Enter the Amount</string>
+    <string name="enter_your_description">Enter your description</string>
+    <string name="submit">Submit</string>
+    <string name="view_expenses">View Expenses</string>
+    <string name="expenses_tracker">Expenses Tracker</string>
+</resources>
